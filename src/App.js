@@ -32,6 +32,8 @@ class App extends Component {
     const handleSearchInputChange = this.handleSearchInputChange
     // end destructure
 
+    console.log(monsters);
+
     return (
       <div className="App">
         <h1>Monsters Rolodex</h1>
