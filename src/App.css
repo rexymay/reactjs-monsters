@@ -47,6 +47,11 @@ h1 {
   }
 }
 
-.github-src * {
-  font-color: #D2F7F7
+
+.App .github-src {
+  color: #aaa;
+  padding-bottom: 30px
+}
+.App .github-src a {
+  color: #0ab2ac
 }
