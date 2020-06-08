@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactjs-monsters/static/css/main.d6d5ead2.chunk.css",
-    "main.js": "/reactjs-monsters/static/js/main.04d0a453.chunk.js",
-    "main.js.map": "/reactjs-monsters/static/js/main.04d0a453.chunk.js.map",
+    "main.css": "/reactjs-monsters/static/css/main.dddb4101.chunk.css",
+    "main.js": "/reactjs-monsters/static/js/main.659f1f54.chunk.js",
+    "main.js.map": "/reactjs-monsters/static/js/main.659f1f54.chunk.js.map",
     "runtime-main.js": "/reactjs-monsters/static/js/runtime-main.968c31e5.js",
     "runtime-main.js.map": "/reactjs-monsters/static/js/runtime-main.968c31e5.js.map",
     "static/js/2.a3c82928.chunk.js": "/reactjs-monsters/static/js/2.a3c82928.chunk.js",
     "static/js/2.a3c82928.chunk.js.map": "/reactjs-monsters/static/js/2.a3c82928.chunk.js.map",
     "index.html": "/reactjs-monsters/index.html",
-    "precache-manifest.b5e2136863126214489add788cc2c8af.js": "/reactjs-monsters/precache-manifest.b5e2136863126214489add788cc2c8af.js",
+    "precache-manifest.74470d25b38e69063f9a6c2217b1b068.js": "/reactjs-monsters/precache-manifest.74470d25b38e69063f9a6c2217b1b068.js",
     "service-worker.js": "/reactjs-monsters/service-worker.js",
-    "static/css/main.d6d5ead2.chunk.css.map": "/reactjs-monsters/static/css/main.d6d5ead2.chunk.css.map",
+    "static/css/main.dddb4101.chunk.css.map": "/reactjs-monsters/static/css/main.dddb4101.chunk.css.map",
     "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/reactjs-monsters/static/js/2.a3c82928.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.968c31e5.js",
     "static/js/2.a3c82928.chunk.js",
-    "static/css/main.d6d5ead2.chunk.css",
-    "static/js/main.04d0a453.chunk.js"
+    "static/css/main.dddb4101.chunk.css",
+    "static/js/main.659f1f54.chunk.js"
   ]
 }
