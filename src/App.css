@@ -46,3 +46,7 @@ h1 {
     transform: rotate(360deg);
   }
 }
+
+.github-src * {
+  font-color: #D2F7F7
+}
