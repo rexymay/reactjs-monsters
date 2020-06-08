@@ -37,6 +37,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Monsters Rolodex</h1>
+        <p>Source code: <a href="https://github.com/rexymay/reactjs-monsters">https://github.com/rexymay/reactjs-monsters</a></p>
         <SearchBox 
           placeholder="search for monsters"
           handleChange={handleSearchInputChange}
